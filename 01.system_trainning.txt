@@ -1,143 +1,604 @@
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Chuyển đến nội dung
+Longphuca
+Tìm kiếm:
+Nhập tên sản phẩm, từ khóa
 
-Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-Chồng Giỏi AI:
-Giúp Vợ Tăng 10x Khách Hàng
-Đăng ký NgayKhóa học dành cho:
-Các anh chồng muốn hỗ trợ vợ tìm kiếm khách hàng với công nghệ AI
-Giúp freelancer, nhà khởi nghiệp hay đang chuẩn bị khởi nghiệp vượt ngàn chông gai, bão tố để có lượng khách hàng dồi dào .
-Tăng gấp 10 lần khách hàng hiện tại bằng việc sử dụng AI và các nền tảng nocode thông minh nhất hiện nay (Chatgpt, Make.com, Airtable...) để tự động hóa tìm kiếm.
-Ps: Ai cũng có thể làm được kể cả khi bạn rất "dốt" về công nghệ
-Khóa Này Giúp Được Gì Cho Các Anh Chồng, Freelancer, Nhà Khởi Nghiệp Hay Đang Ấp Ủ Dự Án Khởi Nghiệp ?
-Tự động tạo video, hình ảnh, content, post lên các nền tảng như youtube, facebook, instagram, wordpress..hàng ngày hoàn toàn tự động theo lịch trình đã được cài đặt sẵn.
-Tự động lấy dữ liệu, nội dung video Youtube, TikTok bất kỳ link nào, xào nấu thành video của mình hoàn toàn tự động.
-Tự động tạo video với âm thanh là giọng đọc AI được huấn luyện từ giọng đọc thật của bạn.
-Video với nhân vật bất kỳ (có thể là chính bạn) - đưa nội dung - đọc giọng theo ý và khẩu hình khớp.
-Tạo hàng ngàn hình ảnh để tự động post facebook, website với thiết kế hình ảnh tùy biến những gì bạn mong muốn (logo, thiết kế... tất tần tật đều có thể tùy chỉnh).
-Nếu bạn có sẵn hình ảnh và video trên Google Drive, chương trình sẽ tự động truy cập vào Google Drive để lấy những tài liệu đó và tạo ra một video hoàn chỉnh. Bạn có thể tùy chỉnh video theo ý muốn của mình.
-Tạo mô tả, tiêu đề, hashtag cho video đăng Youtube, Facebook hoàn toàn tự động.
-Tự động cào dữ liệu bất kỳ website nào (cafef, báo online, tin tức....) chuyển đổi thành video trong vài phút
-Anh em dễ dàng tự tạo cho mình chương trình tự động hóa theo chính ý tưởng của chính mình để phục vụ công việc tìm kiếm khách hàng với chi phí 0 đồng.
-Chương Trình Có Gì Khác Biệt ? Tại Sao Anh Em Nên Chọn Chương Trình Này ?
-Vì tôi sẽ hướng dẫn anh em tạo các chương trình theo ý tưởng của chính anh em, vướng đâu gỡ đó. chớ không phải để anh em tự bơi.
-Cụ thể là:
-Anh em có ý tưởng trong công việc, tôi sẽ hướng dẫn qua zoom, zalo hoặc sẽ làm video cho anh em (giống kiểu livetream) từng bước tôi thực hiện việc tạo chương trình này rồi gởi anh em qua các nền tảng Nocode hoặc AI (rất dễ làm)
-Tôi là dân lập trình, không phải dân dạy làm giàu (Ceo lập trình tại pyan.vn), tôi rất mạnh về kỹ thuật, nên bất kỳ chương trình nào anh em muốn tự động tôi đều có thể hỗ trợ, không giống các thầy ngoài kia chỉ có thể hỗ trợ anh em rất hạn chế hoặc không hỗ trợ anh em tạo chương trình phục vụ công việc riêng của anh em (chỉ chung chung hoặc mặc kệ các bạn bơi)
-Tôi không hề dạy bạn về cách thức tìm kiếm khách hàng vì tôi không giỏi chuyện đó, nhưng đổi lại tôi có thể hướng dẫn anh em tạo bất kỳ chương trình nào vào công việc theo ý tưởng của chính anh em để tìm kiếm khách hàng (ý tưởng của anh em, tôi hướng dẫn)
-Anh em ra đề bài, mình hướng dẫn từng bước, từng bước...
-"Người giàu nói gì cũng đúng" nhưng có thể chỉ đúng với lĩnh vực của họ thôi.
-Vì mỗi nghành nghề sẽ có đặc trưng khách hàng khác nhau, không phải ai cũng giống ai đâu, vì vậy chúng ta phải có cách thức tự động hóa tìm kiếm khách hàng của riêng chúng ta, anh em nhé.
-"Công ty trách nhiệm một mình vợ tao"
-một mình "vợ tao" chiến từ sản xuất, marketing tới bán hàng, nhất là phần tìm kiếm khách hàng, quá cực.
-Anh em freelancer hay khởi nghiệp đều trải qua giai đoạn đầu đầy thử thách. Với nguồn tài chính hạn hẹp, hầu hết đều phải tự mình đảm nhận mọi thứ. Chính vì vậy, chương trình này tập trung giúp anh em tự động hóa quy trình tìm kiếm khách hàng, giải quyết một trong những khó khăn lớn nhất mà không cần thuê nhân viên.
-Bằng cách tận dụng các nền tảng no-code và AI hiện đại, anh em có thể tự tạo những công cụ tạo video, hình ảnh theo ý tưởng riêng, tối ưu hóa thời gian và công sức. Khóa học sẽ giúp anh em thiết lập hệ thống tự động tìm kiếm khách hàng tiềm năng, từ đó mang về nguồn khách dồi dào mà không phải đầu tư quá nhiều chi phí hoặc công sức. Đây chính là giải pháp hiệu quả để từng bước phát triển và mở rộng công việc kinh doanh.
-Đăng ký Ngay"Tôi làm công ăn lương nhưng có ý định ra ngoài vì CV quá chán"
-Nhưng ra ngoài thì quá nhiều vấn đề phải lo lắng ví dụ như bán hàng, sale, chăm sóc khách hàng... nhất là tìm khách hàng - tôi sợ !
-Anh em đang cảm thấy chán công việc hiện tại nhưng lại lo lắng về những thử thách khi khởi nghiệp, đặc biệt là việc tìm kiếm và chăm sóc khách hàng? Tại sao không thử xây dựng dự án riêng như một nghề tay trái trước, vẫn giữ công việc ổn định trong khi từng bước phát triển nền tảng kinh doanh của mình?
-Việc tìm kiếm khách hàng không còn quá khó khăn nếu anh em biết tận dụng các công cụ tự động hóa như Make.com và Airtable. Những nền tảng này giúp anh em tạo hệ thống tự động tìm kiếm và quản lý khách hàng – một yếu tố sống còn của kinh doanh – mà không cần phải đầu tư quá nhiều thời gian hay công sức. Với quy trình bán hàng và chăm sóc khách hàng tự động, anh em có thể tiết kiệm tối đa thời gian cho những nhiệm vụ quan trọng khác như phát triển sản phẩm và chiến lược kinh doanh, mà không phải làm mọi thứ thủ công.
-Hãy coi đây là cơ hội để vừa học hỏi vừa thử nghiệm, chuẩn bị cho bước chuyển đổi toàn thời gian khi dự án đã đủ vững mạnh. Nhờ công cụ hiện đại, anh em có thể xây dựng mạng lưới khách hàng ngay từ bây giờ, mở rộng cơ hội kinh doanh một cách hiệu quả mà không cần rời bỏ công việc hiện tại.
-Đừng để nỗi lo cản bước. Bắt đầu từ những bước nhỏ, vững vàng, với sự hỗ trợ của công nghệ để mở ra cánh cửa mới cho tương lai.
-"Tôi hiện đang bận rộn với công việc riêng, trong khi vợ tôi miệt mài với công việc kinh doanh. Nhìn thấy vợ vất vả, tôi cảm thấy không thể ngồi yên. Tôi muốn làm một điều gì đó để hỗ trợ vợ tìm kiếm khách hàng, giúp cô ấy giảm bớt gánh nặng và nâng cao hiệu quả công việc. Tham gia khóa học này không chỉ giúp tôi tự động hóa việc tìm kiếm khách hàng mà còn khiến tình yêu của chúng tôi trở nên thăng hoa hơn bao giờ hết. Hãy cùng tôi học hỏi, để mỗi ngày trôi qua, vợ tôi không chỉ cảm thấy nhẹ nhõm mà còn tự hào về người chồng biết chăm lo cho gia đình!"
-Chồng Giỏi AI: Giúp Vợ Tăng 10x Khách Hàng
-Ví Dụ Về Ứng Dụng Vào Công Việc
-(Các Template Này Có Trong Khóa Học, Anh Em Có Thể Phát Triển Thêm Hoặc Dùng Ngay)
-Tạo hàng ngàn video chỉ với một câu lệnh sau đó tự động post lên các nền tảng mạng xã hội như facebook, instagram, youtube, X... theo lịch hàng ngày, hàng tuần hay hàng tháng tùy chỉnh theo ý anh em
-Đăng ký NgayTự Động Cào Dữ Liệu Từ Video Triệu View YouTube, TikTok và Tạo Video Tương Tự Bằng AI
-Tự Động Tạo Hàng Loạt Hình Ảnh Sau Đó Post Fanpage hàng ngày Với Make
-Đăng ký NgayTự Động Tạo Video Theo Kịch Bản Có Sẵn Và Chọn Giọng Đọc
-Chỉ cần một câu lệnh trong Telegram, bạn đã có ngay nội dung và hình ảnh thương hiệu (đầy đủ logo, thiết kế đúng ý) đăng tự động lên fanpage
-Đăng ký NgayTự Động CMT Hình Ảnh Vào Bài Viết Trên Fanpage
-Nhập Bất Kỳ Link Website Và Một Video Sẽ Được Tạo Ra Từ Nội Dung Đó Bằng AI
-Đăng ký NgayTạo Hàng Trăm Video "nhét chữ vào mồm" Chỉ Trong Vài Phút
-Đăng ký NgayỨng Dụng Cho Bất Động Sản: Tự Động Hóa Tạo Video Từ Link Cafef.vn
-Đăng ký NgayGiải thích những điều cơ bản về Make.com và các nền tảng nocode liên quan.
-Chúng tôi sẽ hướng dẫn anh em các kỹ năng cần thiết để tạo ra các chương trình tự động hóa tùy chỉnh không cần kiến thức lập trình , ngay cả khi anh em là người mới bắt đầu.
-Ps: chúng tôi chỉ hướng dẫn anh em những điều cơ bản nhất để anh em bắt tay vào việc tạo chương trình theo ý tưởng anh em (trong quá trình anh em phát triển thì cần cái gì hãy học cái đó thôi )
-Các template có sẵn, anh em chỉ việc phát triển từ mẫu này
-Sử dụng các template có sẵn của chúng tôi để triển khai vào công việc hay mục đích riêng của anh em . Chỉ cần kết nối tài khoản, làm theo video hướng dẫn và anh em đã có thể bắt đầu sử dụng. anh em bị vướng hay muốn phát triển thêm chúng tôi sẽ hỗ trợ anh em 24/7 , vướng thì gỡ thôi.
-Đăng ký NgayCác Template khác Cũng Được Sử dụng Trong Khóa học
-Các Template này có thể được tải lên Make.com và kết nối với ứng dụng của anh em chỉ trong vài phút.
-Giải Pháp Tự Động Hóa Fanpage: Hàng Trăm Hình Ảnh, Video, Đăng Bài Mỗi Ngày Không Cần Tốn Công!
-"Tôi cần nhiều video, hình ảnh để đăng lên fanpage thường xuyên, nhưng việc chuẩn bị và đăng bài mỗi ngày tốn quá nhiều thời gian. Vì vậy, tôi đã phát triển một chương trình có khả năng tự động tạo ra hàng trăm hình ảnh, video khác nhau và tự động đăng lên fanpage hàng ngày, theo lịch sẵn có. Nhờ đó, fanpage luôn được cập nhật nội dung đều đặn mà không cần tốn nhiều công sức quản lý thủ công."
-Tự Động Hóa Sản Xuất Video Với Giọng Đọc Cá Nhân Hóa Hoặc Tùy Chọn Giọng Đọc
-"Với chỉ một cú nhấp chuột, tôi có thể biến kịch bản có sẵn thành video hoàn chỉnh, với giọng đọc tùy chỉnh theo sở thích của mình (hoặc giọng đọc được mô phỏng từ chính giọng của tôi). Sau chỉ vài phút, video hoàn hảo mà tôi cần sẽ được tạo ra một cách nhanh chóng và chính xác."
-"Bot Tự Động Đăng Bài - Quản Lý Fanpage và YouTube Dễ Dàng Chỉ Trong 1 Chạm!"
-"Tôi là một nhà khởi nghiệp, thường xuyên chạy quảng cáo Facebook và quản lý nhiều fanpage, đồng thời phát triển kênh YouTube. Vì không có thời gian để vừa đăng video lên YouTube vừa quản lý 10 fanpage cùng lúc, tôi đã tạo ra một bot có thể tự động đăng lên YouTube và đồng thời chia sẻ lên hàng chục fanpage của mình hàng ngày. Bạn cũng có thể dễ dàng làm điều này thông qua template từ khóa học của tôi."
-"Tự Động Cào Dữ Liệu và Chuyển Đổi Thành Video Chuyên Nghiệp Chỉ Trong Vài Phút"
-"Với chương trình này, tôi có thể tự động thu thập dữ liệu từ bất kỳ trang web nào, bao gồm các trang tin tức như Cafef, báo online, hoặc các nguồn tin tức khác, và chuyển đổi chúng thành video chuyên nghiệp chỉ trong vài phút"
-Tóm lại anh em dễ dàng tạo ra các ứng dụng riêng để phục vụ mục đích cá nhân hay công việc theo ý tưởng của chính anh em chỉ trong vài phút với các template (mẫu) chúng tôi cung cấp sẵn, dĩ nhiên anh em có thể phát triển thêm hoặc tạo ra cái mới tùy theo mục đích của anh em và chúng tôi sẽ từng bước hướng dẫn các anh em.
-Và hàng trăm template khác, anh em chỉ cài đặt mất vài phút là sử dụng ngay và liền.
-Mỗi Chương trình đều có video hướng dẫn thiết lập chi tiết.
-"Những mẫu template này có thể được sử dụng ngay lập tức, tuy nhiên, có thể không hoàn toàn phù hợp với nhu cầu cụ thể của bạn. Bạn có thể tùy chỉnh và phát triển thêm dựa trên những gì đã có. Nếu gặp khó khăn, chúng tôi luôn sẵn sàng hỗ trợ bạn khi vướng thông qua zalo và zoom"
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Alo anh em ! Quên phương pháp học truyền thống nhàm chán đi, vì giờ đây đã có một cách học mới, thực tế và hiệu quả hơn, dành riêng cho anh em chúng ta, đó là cứ tạo chương trình theo ý tưởng của anh em ngay và liền, vướng thì gỡ thôi, không học lan man trên trời dưới biển nữa. Anh em sẽ thấy được kết quả ngay lập tức, từ đó có động lực học tập hơn. Làm thật nhiều chương trình , anh em sẽ dần nắm vững và tự tin hơn.
-Thực Dụng, Thực Tế Và Thực Chiến Đi Anh Em
-Cách Thức Học Tập Hoàn Toàn Khác Biệt
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Đầu tiên anh em học qua video trước, giúp anh em nhanh chóng cài đặt và làm quen vớiMake.com, Airtable, Chatgpt…(linh hoạt thời gian, muốn học khi nào thì học).
-Tiếp theo ứng dụng ngay vào công việc của chính bản thân : Học theo phương châm "Cứ ứng dụng vào công việc, vướng thì gỡ". Anh em sẽ áp dụng ngay những gì học được để tạo chương trình theo ý tưởng của chính mình muốn viết để tự động hóa công việc tìm kiếm khách hàng, vướng đâu gỡ đó (hướng dẫn anh em qua zalo, video và zoom, ultraview) miễn sao noàn thành được chương trình chính anh em muốn.
-Học qua video cực kỳ nhàm chán anh em ạ, mới đầu anh em có thể học xung lắm nhưng chỉ học vài video là anh em bị tuột mood hết muốn học,
-Còn học trực tuyến cũng không sáng sủa gì hơn, chúng ta đi làm rồi, không có thời gian đâu mà anh em chúng ta ngồi bị tra tấn cả mấy tiếng lận, chưa kể nhiều khi còn không biết thầy đang "chém" gì nữa.
-Vậy tại sao anh em không chiến luôn dự án của anh em , chúng ta chỉ học những cái chúng ta cần trong công việc, vướng thì gỡ thôi, còn mấy cái "sàm sàm" khác chưa cần thiết thì dẹp sang một bên, kệ mợ đi, ta sẽ học những cái mà ta đang cần mà thôi.
-Đăng ký NgayGiải thích rõ hơn về việc hướng dẫn tạo chương trình theo ý tưởng của anh em (không giới hạn dự án):
-Gặp trực tuyến hoặc làm video hướng dẫn : Khi anh em có đề bài là chương trình muốn tạo, anh em có thể nhắn tin vào group zalo hoặc nhắn tin riêng cho GV, sau đó giảng viên sẽ làm video hướng dẫn tạo ra chương trình đó cho anh em hoặc gặp trực tiếp ZOOM để trao đổi (ưu tiên qua gặp qua zoom)
-"Chỉ Học Những Cái Chúng Ta Đang Cần, Còn Mấy Cái Khác Dẹp Sang Bên, Kệ Đi"
-Tự động hóa với AI là gì?
-"Tự động hóa với AI sẽ giúp anh em freelancer và nhà khởi nghiệp, hay chuẩn bị khởi nghiệp cải thiện quy trình làm việc, cuộc sống bằng cách kết nối các ứng dụng để mọi tác vụ diễn ra tự động, dù theo lịch hay được kích hoạt bởi sự kiện.
-Hãy tưởng tượng tất cả đều trôi chảy — dữ liệu tự động cập nhật, báo cáo tạo ra sẵn, bài đăng trên mạng xã hội cũng được hoàn thành — mà anh em không phải làm tay.
-Tự động hóa đã có từ lâu, nhưng với sự ra đời của các công cụ AI như ChatGPT, mọi thứ đã thay đổi. Giờ đây, anh em có thể ứng dụng AI vào công việc và cuộc sống một cách hiệu quả, dễ dàng hơn bao giờ hết."
-Đăng ký NgayAnh em đang khởi nghiệp hay chuẩn bị khởi nghiệp nếu anh em không áp dụng tự động hóa tìm kiếm khách hàng thì gần như chắc chắn anh em sẽ "đứt gánh giữa đường", giờ thế mạnh để cạnh tranh của anh em so với mấy ông "lão làng" chỉ có thể là áp dụng tự động hóa để tiết kiệm chi phí, thời gian trong quá trình tìm kiếm khách hàng mà thôi.
-Vậy, tôi là ai?
-Tôi NHUẦN và là người sáng lập PYAN và Thương hiệu Anh Lập Trình.
-Phương pháp giảng dạy là "Cứ ứng dụng vào công việc đi, vướng thì gỡ," nhấn mạnh việc thực hành trước, sau đó giải quyết vấn đề khi gặp phải. Phương pháp này khuyến khích học viên bắt đầu ngay với các tác vụ thực tế, dù chưa hiểu rõ lý thuyết, vì qua quá trình làm việc, lý thuyết sẽ dần dần sáng tỏ, kệ mợ mọi thứ đi.
-Tôi giúp bạn tạo ra các chương trình phục vụ công việc của chính các bạn mà không cần biết lập trình thông qua các nền tảng nổi tiếng nhất hiện nay như airtable và make.com...
-Phải nhấn mạnh rằng:
-Tôi không phải là chuyên gia dạy làm giàu, mà là người chuyên về tự động hóa công việc với AI.
-Tôi bắt đầu khởi nghiệp vào năm 2020, khi còn là một nhân viên văn phòng bình thường tại một công ty xây dựng. Công việc lặp đi lặp lại khiến tôi chán nản, và mặc dù đã có tuổi, tôi vẫn chưa từng được sếp cân nhắc vào những vị trí cao hơn. Điều đó khiến tôi cảm thấy ngại ngùng, đặc biệt là khi làm việc chung với các đồng nghiệp trẻ hơn, năng động hơn.
-Tôi hiểu rằng mình không thể mãi như thế. Thật lòng mà nói, nếu nghỉ rồi quay lại, chắc cũng chẳng có công ty nào chịu nhận tôi hoặc sẽ chỉ trả mức lương ngang với sinh viên mới ra trường. Vậy nên tôi quyết định liều một phen khởi nghiệp với tinh thần không còn đường lùi.
-Những khó khăn trong giai đoạn đầu khởi nghiệp
-Ban đầu, tôi gặp vô vàn khó khăn. Những câu hỏi liên tục xuất hiện trong đầu:
-Tại sao tôi học yếu?
-Tại sao khi làm việc tôi lại thấy chuyên môn của mình quá kém?
-Vì sao mãi không thấy sự phát triển nào?
-Rồi tôi nhận ra nguyên nhân: Tôi không phù hợp với cách học truyền thống. Chính lối học tập cũ kỹ đó đã kìm hãm sự phát triển của tôi. Thay vì tiếp tục mắc kẹt, tôi bắt đầu bứt phá với cách học mới:
-"Cứ ứng dụng vào công việc, vướng thì gỡ"
-Bước ngoặt cuộc đời
-Cuộc đời tôi gần như thay đổi 180 độ khi tôi áp dụng cách học này vào công việc và phát triển kỹ năng. Nhờ đó, tôi tự tin hơn, hiểu rõ hơn về năng lực của mình, và từng bước xây dựng được sự nghiệp riêng.
-Trong khóa học này, tôi sẽ chia sẻ với anh em chính những kinh nghiệm đó. Mỗi bài giảng, mỗi video sẽ là những hướng dẫn chi tiết, thực tế, giúp bạn tự động hóa công việc và nâng cao hiệu quả giống như cách tôi đã làm và rèn luyện cho anh em cách học mới vô cùng hiệu quả và thực dụng này.
-Nếu anh em muốn tìm hiểu thêm về tôi trước khi tham gia khóa học, hãy ghé thăm kênh YouTube và fanpage của tôi. Hy vọng những gì tôi chia sẻ sẽ giúp bạn tìm được con đường phát triển của riêng mình!
-Đăng ký NgayP.S: Giọng của tôi hơi nặng (gốc Nghệ An), có thể sẽ khó nghe với một số anh em. Tuy nhiên, tôi luôn nỗ lực bù đắp điểm yếu này bằng cách hỗ trợ anh em tối đa trong các dự án tự động hóa công việc và hướng dẫn các kỹ năng tự học, giúp anh em tự tin "bơi" mà không phải phụ thuộc vào tôi hay bất kỳ ai.
-Anh em có thể tham khảo một số video tôi hướng dẫn tự động hóa công việc tại kênh Youtube Hoặc Fanpage:
-"Ban đầu tôi nghĩ tự động hóa là thứ gì đó phức tạp. Nhưng khi áp dụng theo cách 'cứ làm đi, sai thì sửa', tôi đã thiết lập thành công hệ thống tìm kiếm và chăm sóc khách hàng. Kết quả là doanh số tăng 30% chỉ sau một tháng."
-Anh Huy – Chủ cửa hàng online
-Cảm Nhận Của Học Viên Đã Từng Học
-"Cách học này giúp tôi vượt qua nỗi sợ 'không biết thì làm sao'. Cứ làm đến đâu gỡ đến đó, và tôi đã tự động hóa việc quảng bá trên Facebook. Bánh bán chạy hơn, khách đặt hàng đều đặn mỗi ngày."
-Chị Mai – Chủ tiệm bánh:
-"Nhờ phương pháp 'vướng thì gỡ', tôi đã tạo được hệ thống tự động gửi báo giá cho khách hàng. Giờ đây, tôi không còn phải ngồi check email cả ngày mà vẫn có khách liên hệ thường xuyên."
-Anh Phú – Freelancer
-"Tôi rất thích cách học này. Ban đầu gặp lỗi hoặc khó khăn, nhưng mỗi lần gỡ được một vấn đề là tôi hiểu hơn về hệ thống. Giờ đây, tôi không cần thức khuya để trả lời tin nhắn khách nữa vì hệ thống tự động đã làm thay."
-Chị Thảo – Bán hàng mỹ phẩm online:
-"Tôi từng nghĩ mình không thể tự động hóa được quy trình marketing vì không biết nhiều về công nghệ. Nhưng nhờ phương pháp 'vướng thì gỡ', tôi đã tự động hóa việc chăm sóc khách hàng. Giờ đây, khách đến đông hơn mà tôi không cần phải lo quảng cáo mỗi ngày."
-Anh Nam –Chủ Doanh nghiệp nhỏ
-"Tôi bắt đầu bán thực phẩm hữu cơ vì muốn khởi nghiệp từ sớm, nhưng thời gian ở công ty khiến tôi khó tập trung. Nhờ khóa học này, tôi đã học cách tự động hóa quy trình bán hàng và chăm sóc khách hàng, giúp công việc kinh doanh vận hành trơn tru mà không ảnh hưởng đến công việc chính. Giờ đây, tôi thấy con đường khởi nghiệp khả thi hơn bao giờ hết."
-Anh Minh – Kỹ sư xây dựng, kinh doanh thực phẩm hữu cơ:
-Đăng ký NgayĐến bây giờ mà anh em vẫn chưa áp dụng AI vào công việc hay cuộc sống, có khi anh em đang sống nhầm thời đại
-Đừng trì hoãn ! Tham gia "Chồng Giỏi AI - Tự Động Hóa Video, Hình Ảnh Với AI " ngay hôm nay để tiết kiệm thời gian, tăng năng suất, và chinh phục công nghệ mà không cần viết một dòng code nào! Nắm bắt cơ hội để làm việc thông minh hơn, phát triển nhanh hơn và dẫn đầu cuộc chơi và đặc biệt là x10,x15 khách hàng hiện tại.
-Học phí khuyến mãi chỉ hôm nay : 1.520.000 VNĐ
-Các thầy ngoài kia họ dạy chung chung rồi để các bạn tự phát triển, còn tôi là dân kỹ thuật, tôi sẽ hướng dẫn anh em chương trình theo ý tưởng anh em muốn viết luôn (chương trình càng mất nhiều thời gian, càng thử thách tôi càng thích, càng làm càng khoái)
-Những câu hỏi thường gặp
-Tôi có cần phải trả phí cho bên thứ ba nào không?
-Điều này sẽ phụ thuộc vào số lượng tự động hóa bạn tạo. Bản thân Make.com miễn phí cho tối đa 1.000 hoạt động mỗi tháng. Tất cả các mô-đun có trong các mẫu đều có bản dùng thử miễn phí. Bạn có thể bắt đầu hoàn toàn miễn phí và có thể chọn trả phí đăng ký nhỏ nếu bạn nhận được nhiều lợi ích.
-Tôi có thể truy cập nội dung khóa học bằng cách nào?
-Chúng tôi sẽ gửi email cập nhật khi có nội dung mới.
-Tôi mới làm quen với tự động hóa, liệu giải pháp này có phù hợp với tôi không?
-Có, chắc chắn rồi. Không cần code và quá trình thiết lập tự động hóa dựa nhiều hơn vào logic và sự sáng tạo.
-Tôi có thể bán lại các template này không?
-Bạn không được phép bán lại các mẫu dưới dạng mẫu, nhưng bạn được phép sử dụng chúng cho chính mình hoặc triển khai chúng cho các doanh nghiệp khác. Bạn có thể tính phí cho bên thứ ba để triển khai các mẫu này cho họ.
-Tự Động Hóa Cuộc Sống Với AI
-Liên hệ
-contact@anhlaptrinh.vn
-0914972102
-Cứ ứng dụng vào công việc đi,
-vướng thì gỡ
-Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+ Xây dựng cấu hình
+ Gọi mua hàng: 0915 450 969
+ Hệ thống cửa hàng
+Giỏ hàng
+
+
+
+
+
+
+
+
+
+LAPTOP, TABLET, MOBILE
+Laptop Cấu Hình CPU
+Laptop Cấu Hình RAM
+Laptop Cho Gaming
+Laptop Theo Giá
+Laptop Theo Hãng
+Laptop Theo Kích Thước
+Laptop Theo Nhu Cầu
+Tùy Chọn Ổ Cứng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XEM TẤT CẢ
+Màn Hình Máy Tính
+Độ Phân Giải Màn Hình
+Độ Sáng Màn Hình
+Kích Thước Màn Hình
+Màn Hình Theo Khoảng Giá
+Nhu Cầu Sử Dung
+Tấm Nền Màn Hình
+Tần Số Màn Hình
+
+
+
+
+
+
+
+
+
+
+
+XEM TẤT CẢ
+Fan, Led, Tản Nhiệt Máy
+Fan Làm Mát Các Loại
+Tản Nước Theo Hãng
+Theo Kích Cỡ Quạt
+
+
+XEM TẤT CẢ
+Linh Kiện Máy Tính
+Case - Vỏ Máy Tính
+Mainboard - Bo Mạch Chủ
+Ổ Cứng SSD
+RAM - Bộ Nhớ Trong
+
+
+
+
+
+
+
+
+
+
+XEM TẤT CẢ
+Phím Chuột, Bàn, Ghế
+Bàn Phím
+Bộ Bàn Phím & Chuột
+Chuột
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XEM TẤT CẢ
+Camera Quan Sát, Bộ Đàm
+Camera Quan Sát
+Camera Theo Hãng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XEM TẤT CẢ
+Máy In, Cartridge, Phụ Kiện
+Máy In
+Máy In Theo Hãng
+Máy In Theo Nhu Cầu
+Mực In
+
+Máy in tem nhãn Godex – G500
+
+0 (0)
+3.999.000₫
+Giá gốc là: 3.999.000₫.3.349.000₫Giá hiện tại là: 3.349.000₫.-16%
+
+Máy In Laser Trắng Đen Canon LBP2900
+
+0 (0)
+4.600.000₫
+Giá gốc là: 4.600.000₫.4.400.000₫Giá hiện tại là: 4.400.000₫.-4%
+
+Máy in Mã Vận Đơn – Máy In Nhiệt Bằng Điện Thoại
+
+0 (0)
+2.150.000₫
+Giá gốc là: 2.150.000₫.1.920.000₫Giá hiện tại là: 1.920.000₫.-11%
+
+Main nguồn máy in canon 2900/3000 – Hàng Zin Bóc Máy
+
+0 (0)
+450.000₫
+Giá gốc là: 450.000₫.350.000₫Giá hiện tại là: 350.000₫.-22%
+
+Phiễu đổ mực cho các loại mực in
+
+0 (0)
+19.000₫
+Giá gốc là: 19.000₫.10.000₫Giá hiện tại là: 10.000₫.-47%
+
+Kìm nhọn dùng để tháo lắp các chi tiết hộp mực,chuyên dùng cho nghành điện, điện tử, viễn thông, xây dựng
+
+0 (0)
+139.000₫
+Giá gốc là: 139.000₫.89.000₫Giá hiện tại là: 89.000₫.-36%
+
+Móc đẩy chốt hộp mực máy in cho tất cả các loại hộp mực
+
+0 (0)
+99.000₫
+Giá gốc là: 99.000₫.50.000₫Giá hiện tại là: 50.000₫.-49%
+
+Tua vít vặn 4 cạnh cho tháo lắp hộp mực, các ngành điện, điện tử
+
+0 (0)
+79.000₫
+Giá gốc là: 79.000₫.35.000₫Giá hiện tại là: 35.000₫.-56%
+
+Bộ dụng cụ đổ mực máy in chuyên nghiệp
+
+0 (0)
+230.000₫
+Giá gốc là: 230.000₫.160.000₫Giá hiện tại là: 160.000₫.-30%
+
+Hộp mực in 337A/83A – Dùng cho Máy canon MF211, 211D, 212w, 215, 217W, 226dn, 229dw, 221D,151dw, 244dw, MF232W, MF235, MF237W, MF241D, MF246DN, MF249DW
+
+0 (0)
+1.800.000₫
+Giá gốc là: 1.800.000₫.130.000₫Giá hiện tại là: 130.000₫.-93%
+
+Hộp mực in 278A/326/328 – Dùng cho máy in HP P1560/P1566/P1600/P1606. HP MFP LaserJet Pro M1536dnf. Canon LBP 6200d/ LBP6230dn/ LBP6230dw
+
+0 (0)
+180.000₫
+Giá gốc là: 180.000₫.140.000₫Giá hiện tại là: 140.000₫.-22%
+
+Hộp mực in 05A/80A – Dùng cho máy in laser HP P2035/P2035N/P2055/P2055N.
+
+0 (0)
+300.000₫
+Giá gốc là: 300.000₫.170.000₫Giá hiện tại là: 170.000₫.-43%
+
+Hộp mực in 49A/53A – Dùng cho máy in HP Laserjet 1160/1320/3390/3392 – Canon LBP 3300/3360
+
+0 (0)
+250.000₫
+Giá gốc là: 250.000₫.180.000₫Giá hiện tại là: 180.000₫.-28%
+
+Hộp mực in 35A/85A(Có lỗ đổ mực thải) – Dùng cho máy in HP Laserjet P1005/1006 – Canon LBP3018/3010/3050/3020/3100
+
+0 (0)
+180.000₫
+Giá gốc là: 180.000₫.130.000₫Giá hiện tại là: 130.000₫.-28%
+
+Mực máy in canon 2900/12A (Có lỗ đổ mực/mực thải) – Dùng cho máy in 2900/3000
+
+0 (0)
+180.000₫
+Giá gốc là: 180.000₫.130.000₫Giá hiện tại là: 130.000₫.-28%
+XEM TẤT CẢ
+Loa , tai nghe, webcam
+Kiểu Loa
+Loa
+Loa Theo Hãng
+
+Loa Loyfun Mini i80 (Màu ngẫu nhiên) – Hàng chính hãng
+
+0 (0)
+180.000₫
+Giá gốc là: 180.000₫.140.000₫Giá hiện tại là: 140.000₫.-22%
+
+Loa Bluetooth TG117 thiết kế phong cách trẻ trung – âm thanh hay – bass mạnh
+
+0 (0)
+220.000₫
+Giá gốc là: 220.000₫.185.000₫Giá hiện tại là: 185.000₫.-16%
+
+Loa Vi Tính LAPOP A55 2.0
+
+0 (0)
+220.000₫
+Giá gốc là: 220.000₫.180.000₫Giá hiện tại là: 180.000₫.-18%
+
+Loa Bluetooth 2.1 Micorolab M-108BT
+
+0 (0)
+650.000₫
+Giá gốc là: 650.000₫.580.000₫Giá hiện tại là: 580.000₫.-11%
+
+Loa Microlab M108 – 2.1
+
+0 (0)
+560.000₫
+Giá gốc là: 560.000₫.450.000₫Giá hiện tại là: 450.000₫.-20%
+
+Loa vi tính Microlab X2 – 2.1
+
+0 (0)
+1.500.000₫
+Giá gốc là: 1.500.000₫.1.210.000₫Giá hiện tại là: 1.210.000₫.-19%
+XEM TẤT CẢ
+THIẾT BỊ MẠNG, PHẦN MỀM
+Bộ Phát Wifi 3G/4G
+Nhu Cầu Sử Dụng
+Phần Mềm
+Phụ Kiện Mạng
+
+Kìm bấm mạng RJ45/RJ11 chính hãng Ugreen 10952 cao cấp
+
+0 (0)
+490.000₫
+Giá gốc là: 490.000₫.430.000₫Giá hiện tại là: 430.000₫.-12%
+
+Thiết bị kiểm tra tín hiệu RJ11, RJ12, RJ45 dây mạng, điện thoại Network Cabe Tester Ugreen 10951
+
+0 (0)
+900.000₫
+Giá gốc là: 900.000₫.770.000₫Giá hiện tại là: 770.000₫.-14%
+
+Cáp mạng UTP CAT6 dài 305m chính hãng Ugreen 11259 23AWG Cao cấp
+
+0 (0)
+4.550.000₫
+Giá gốc là: 4.550.000₫.3.750.000₫Giá hiện tại là: 3.750.000₫.-18%
+
+Hạt mạng RJ45 Cat6/Cat6a 100c/hộp chính hãng Ugreen 50248 cao cấp
+
+0 (0)
+550.000₫
+Giá gốc là: 550.000₫.490.000₫Giá hiện tại là: 490.000₫.-11%
+
+Bộ phát wifi TP-Link TL-WR840N Wireless N300Mbps – Chính Hãng
+
+0 (0)
+330.000₫
+Giá gốc là: 330.000₫.280.000₫Giá hiện tại là: 280.000₫.-15%
+
+Bộ phát wifi TP-Link WR841N Wireless 300Mbps chính Hãng
+
+0 (0)
+350.000₫
+Giá gốc là: 350.000₫.295.000₫Giá hiện tại là: 295.000₫.-16%
+
+Bkav Pro Internet Security AI
+
+0 (0)
+299.000₫
+Giá gốc là: 299.000₫.210.000₫Giá hiện tại là: 210.000₫.-30%
+
+Phần mềm chống virus Kaspersky Internet Security 3PC/1 Năm bảo vệ máy tính bạn an toàn khi sử dụng
+
+0 (0)
+650.000₫
+Giá gốc là: 650.000₫.640.000₫Giá hiện tại là: 640.000₫.-2%
+
+Phần mềm chống virus Kaspersky Internet Security 1PC/1 Năm bảo vệ máy tính bạn an toàn khi sử dụng
+
+0 (0)
+330.000₫
+Giá gốc là: 330.000₫.290.000₫Giá hiện tại là: 290.000₫.-12%
+
+Phần mềm chống virus Kaspersky Anti Virus 3PC/1 Năm bảo vệ máy tính bạn an toàn khi sử dụng
+
+0 (0)
+380.000₫
+Giá gốc là: 380.000₫.340.000₫Giá hiện tại là: 340.000₫.-11%
+
+Phần mềm chống virus Kaspersky Anti Virus 1PC/1 Năm bảo vệ máy tính bạn an toàn khi sử dụng
+
+0 (0)
+230.000₫
+Giá gốc là: 230.000₫.170.000₫Giá hiện tại là: 170.000₫.-26%
+XEM TẤT CẢ
+Thiết bị lưu trữ, USB, Thẻ
+Ổ Cứng Di Động
+Thẻ Nhớ
+USB
+USB Boot Cứu Hộ
+
+Thẻ nhớ Sandisk 64G hàng chính hãng
+
+0 (0)
+309.000₫
+Giá gốc là: 309.000₫.160.000₫Giá hiện tại là: 160.000₫.-48%
+
+Thẻ nhớ SanDisk Class 10 128GB 100MB/s
+
+0 (0)
+590.000₫
+Giá gốc là: 590.000₫.300.000₫Giá hiện tại là: 300.000₫.-49%
+
+Thẻ nhớ microSD T1 IMOU 64GB – Hàng chính hãng
+
+0 (0)
+150.000₫
+Giá gốc là: 150.000₫.100.000₫Giá hiện tại là: 100.000₫.-33%
+
+USB 3.0 SanDisk Ultra Flair CZ73 32GB 150MB/s SDCZ73-032G-G46
+
+0 (0)
+190.000₫
+Giá gốc là: 190.000₫.150.000₫Giá hiện tại là: 150.000₫.-21%
+
+Thẻ nhớ Sandisk Class 10 32GB 100MB/s chính hãng | Giá rẻ
+
+0 (0)
+220.000₫
+Giá gốc là: 220.000₫.130.000₫Giá hiện tại là: 130.000₫.-41%
+
+USB 3.0 SanDisk Ultra Flair CZ73 16GB 130MB/s SDCZ73-016G-G46
+
+0 (0)
+190.000₫
+Giá gốc là: 190.000₫.130.000₫Giá hiện tại là: 130.000₫.-32%
+
+USB Sandisk 16G SDCZ33 3.1 gen 1 mini hàng chính hãng
+
+0 (0)
+209.000₫
+Giá gốc là: 209.000₫.130.000₫Giá hiện tại là: 130.000₫.-38%
+
+USB Hikvision M200 8Gb USB2.0 Giá tốt nhất | Chính hãng
+
+0 (0)
+99.000₫
+Giá gốc là: 99.000₫.80.000₫Giá hiện tại là: 80.000₫.-19%
+
+USB Cứu Hộ Máy Tính UEFI & Legacy – Cho các dòng máy thế hệ cũ
+
+0 (0)
+179.000₫
+150.000₫
+
+Hộp đựng ổ cứng 2.5 inch ORICO 25PW1-U3
+
+0 (0)
+185.000₫
+Giá gốc là: 185.000₫.130.000₫Giá hiện tại là: 130.000₫.-30%
+
+USB Hikvision M200 32G – Hàng Chính Hãng
+
+0 (0)
+120.000₫
+Giá gốc là: 120.000₫.90.000₫Giá hiện tại là: 90.000₫.-25%
+
+USB 32G Kingston DataTravele Exodia 3.2(DTX/32GB)-Chính Hãng(Nắp mở)
+
+0 (0)
+130.000₫
+Giá gốc là: 130.000₫.90.000₫Giá hiện tại là: 90.000₫.-31%
+
+USB 32GB 3.2 Kingston DataTravele Exodia(DTX/32GB)-Chính Hãng(Nắp mở)
+
+0 (0)
+150.000₫
+Giá gốc là: 150.000₫.99.000₫Giá hiện tại là: 99.000₫.-34%
+
+Thẻ Nhớ MicroSD 128GB Kingston V10 SDCS2/64GBSP – Hàng Chính Hãng
+
+0 (0)
+609.000₫
+Giá gốc là: 609.000₫.350.000₫Giá hiện tại là: 350.000₫.-43%
+
+Thẻ Nhớ MicroSD 64GB 100MB/s Kingston SDCS2/64GBSP – Hàng Chính Hãng
+
+0 (0)
+180.000₫
+Giá gốc là: 180.000₫.120.000₫Giá hiện tại là: 120.000₫.-33%
+
+Thẻ Nhớ MicroSD 32GB 100MB/s Kingston SDCS2/32GBSP – Hàng Chính Hãng
+
+0 (0)
+130.000₫
+Giá gốc là: 130.000₫.95.000₫Giá hiện tại là: 95.000₫.-27%
+XEM TẤT CẢ
+PHỤ KIỆN, LAPTOP, PC
+Dây Cáp Khác Loại
+Thiết Bị Chuyển Đổi
+
+Bộ Chuyển Đổi USB 3.0 Sang HDMI VGA Full HD 1080P: Kết Nối Đa Năng, Hình Ảnh Sắc Nét
+
+0 (0)
+470.000₫
+Giá gốc là: 470.000₫.300.000₫Giá hiện tại là: 300.000₫.-36%
+
+Cáp USB máy in 1,5M Ugreen 10845 – Chính hãng
+
+0 (0)
+130.000₫
+Giá gốc là: 130.000₫.70.000₫Giá hiện tại là: 70.000₫.-46%
+
+Cáp chuyển đổi USB Type C – HDMI chính hãng Ugreen 40273 hỗ trợ 4k*2K cao cấp
+
+0 (0)
+609.000₫
+Giá gốc là: 609.000₫.470.000₫Giá hiện tại là: 470.000₫.-23%
+
+Hub Type C 5in1 Cho Macbook – Cổng chuyển Hub Type C to HDMI, USB 3.0, SD, TF, RJ45
+
+0 (0)
+599.000₫
+Giá gốc là: 599.000₫.420.000₫Giá hiện tại là: 420.000₫.-30%
+
+Cáp Sạc Nhanh 120W 6A – Type-C ->Iphone Bằng Hợp Kim Kẽm và Silicone
+
+0 (0)
+90.000₫
+Giá gốc là: 90.000₫.60.000₫Giá hiện tại là: 60.000₫.-33%
+
+Cáp Sạc Nhanh 120W 6A – USB ->Type-C 180° Bằng Silicone Dây Cáp Có Thể Xoay Được
+
+0 (0)
+150.000₫
+Giá gốc là: 150.000₫.70.000₫Giá hiện tại là: 70.000₫.-53%
+
+Cáp Sạc Nhanh 120W 6A – USB ->Type-C(Android) Bằng Hợp Kim Kẽm và Silicon
+
+0 (0)
+145.000₫
+Giá gốc là: 145.000₫.50.000₫Giá hiện tại là: 50.000₫.-66%
+
+Cáp Sạc Nhanh 120W 6A – USB ->3 Trong 1 Bằng Hợp Kim Kẽm và Silicone
+
+0 (0)
+150.000₫
+Giá gốc là: 150.000₫.90.000₫Giá hiện tại là: 90.000₫.-40%
+
+Cáp VGA 20m Ugreen 11635
+
+0 (0)
+639.000₫
+Giá gốc là: 639.000₫.549.000₫Giá hiện tại là: 549.000₫.-14%
+
+Cáp VGA 15m Ugreen 11634
+
+0 (0)
+599.000₫
+Giá gốc là: 599.000₫.479.000₫Giá hiện tại là: 479.000₫.-20%
+
+Cáp VGA 10m Ugreen 11633
+
+0 (0)
+409.000₫
+Giá gốc là: 409.000₫.349.000₫Giá hiện tại là: 349.000₫.-15%
+
+Cáp VGA 5m Ugreen 11632
+
+0 (0)
+309.000₫
+Giá gốc là: 309.000₫.199.000₫Giá hiện tại là: 199.000₫.-36%
+
+Cáp VGA 3m Ugreen 11631
+
+0 (0)
+209.000₫
+Giá gốc là: 209.000₫.169.000₫Giá hiện tại là: 169.000₫.-19%
+
+Cáp VGA 1,5m Ugreen 11630
+
+0 (0)
+179.000₫
+Giá gốc là: 179.000₫.139.000₫Giá hiện tại là: 139.000₫.-22%
+
+DÂY VGA 3+6 15M ARI ARIGATO Đảm Bảo Chất Lượng
+
+0 (0)
+480.000₫
+Giá gốc là: 480.000₫.250.000₫Giá hiện tại là: 250.000₫.-48%
+
+Dây HDMI 4k Cao Cấp Arigato 5m
+
+0 (0)
+140.000₫
+Giá gốc là: 140.000₫.100.000₫Giá hiện tại là: 100.000₫.-29%
+XEM TẤT CẢ
+CHÍNH SÁCH GIAO HÀNG
+Nhận hàng và thanh toán tại nhà
+ĐỔI MỚI 15 - 365 NGÀY
+Áp dụng với sản phẩm cụ thể
+THANH TOÁN TIỆN LỢI
+Trả tiền mặt, CK, trả góp 0%
+HỖ TRỢ NHIỆT TÌNH
+Tư vấn, giải đáp mọi thắc mắc
+GIỚI THIỆU
+Giới thiệu công ty
+
+Liên hệ hợp tác kinh doanh
+
+Thông tin tuyển dụng
+
+Tin công nghệ
+Tin tức
+
+ 
+HỖ TRỢ KHÁCH HÀNG
+Hướng dẫn mua hàng trực tuyến
+
+Hướng dẫn thanh toán
+
+Hướng dẫn mua hàng trả góp
+
+In hóa đơn điện tử
+
+Gửi yêu cầu bảo hành
+
+Góp ý, Khiếu Nại
+
+CHÍNH SÁCH CHUNG
+Chính sách, quy định chung
+
+Chính sách vận chuyển hàng
+
+Chính sách bảo hành
+
+Chính sách cho doanh nghiệp
+
+Chính sách hàng chính hãng
+
+Bảo mật thông tin khách hàng
+
+THÔNG TIN KHUYẾN MẠI
+Thông tin khuyến mại
+
+Sản phẩm khuyến mại
+
+Sản phẩm mới
+
+© 2022 Công Ty Cổ Phần Công Nghệ Long Phúc A
+Địa chỉ: Số 564 Đường Chi Lăng, TT.Phong Châu, Huyện Phù Ninh, Tỉnh Phú Thọ
+Email: longphuca@gmail.com. Điện thoại: 0325 224 888
+
+Facebook
+(8 giờ - 24 giờ)
+Zalo
+(8 giờ - 24 giờ)
+Gọi ngay
+0915405969
+(8 giờ - 24 giờ)
+logo
+bạn có thể học toàn bộ nội dung trong link website sau: https://longphuca.com/
